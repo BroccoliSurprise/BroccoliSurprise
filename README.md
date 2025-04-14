@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BroccoliSurprise
-- 👀 I’m interested in micro:bit, LEGO Mindstorms EV3 and SPIKE
-- 🌱 I’m currently learning micropython
+- 👀 I’m interested in micro:bit, MakeCode Arcade, LEGO Mindstorms EV3 and SPIKE
+- 🌱 I’m currently learning javascript
 
 <!---
 BroccoliSurprise/BroccoliSurprise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
